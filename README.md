@@ -17,3 +17,7 @@ repl起動
 $ elm-repl
 ```
 
+モジュールインストール
+```
+$ elm-package install elm-lang/http
+```
